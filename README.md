@@ -2,7 +2,7 @@ mean-vagrant
 ==================
 
 ## Tutoriel (french)
-[Tester Mean Stack avec Vagrant](http://www.toam.fr/05-10-2013-tester-mean-stack-avec-vagrant/)
+[Tester Mean Stack avec Vagrant](http://www.toam.fr/08-10-2013-tester-mean-stack-avec-vagrant/)
 
 ## Setup
 
